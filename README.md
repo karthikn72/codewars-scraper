@@ -22,4 +22,6 @@ Step 3: Clone this repository, navigate to "/CodeWarsScraper" and create a HTML 
 
 Step 4: Run the 'CodeWarsScraper.py', answer the prompts, and get scraping away!
 
+According to the ![Codewars Code of Conduct](https://github.com/Codewars/codewars.com/wiki/Community-Code-of-Conduct), you CANNOT make the solutions publicly available though, so please try not to post these solutions on a public repo on GitHub!
+
 (P.S. This is my first public repo so feel free to submit PRs that could improve anything from my description to the code itself)
